@@ -1,4 +1,3 @@
-#Computer Practical 3
 #Principal component analysis (PCA)
 ################################################################################
 
